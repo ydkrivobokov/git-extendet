@@ -1,10 +1,10 @@
 {
     "name": "git-extended",
-    "version": "1.0.0",
+    "version": "1.2.3",
     "description": "Git repo for educational purposes",
     "main": "index.js",
-    "repository": "git@github.com:username/git-extended.git",
-    "author": "Name Surname <username@gmail.com>",
+    "repository": "git@github.com:ydkrivobokov/git-extended.git",
+    "author": "ydkrivobokov <urakrivobokov123@mail.ru>",
     "license": "CC-BY-4.0",
     "config": {
         "commitizen": {
